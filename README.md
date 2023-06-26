@@ -1,3 +1,5 @@
+![RAZER](https://github.com/DanielsWebDevelopment/JavaScript-ChatBot/assets/129445203/d6fba0b7-7ed7-44d4-888c-eac8f48a80bb)
+
 # Razer-Mock-Website
 Welcome to my Mock Project!
 
