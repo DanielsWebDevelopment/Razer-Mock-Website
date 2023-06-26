@@ -1,0 +1,222 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(87, 87, 87);
+}
+/* hero Section */
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    box-shadow: 10px  5px 5px green;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 10px 20px 10px;
+    font-weight: 600;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: lightgray;
+}
+
+nav ul li a:hover {
+    color: white;
+    transition: .2s;
+}
+
+.nav-icon span{
+    color: grey;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+.nav-icon span:hover{
+    color: white;
+}
+/* End Hero Section */
+/* top header Section */
+.top-header {
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.top-header a {
+    color: white;
+}
+
+.top-header a:hover{
+    color: blue;
+}
+/* end top header section */
+/* Main Section */
+.main-section img {
+    height: 841px;
+    margin-top: 4px;
+}
+
+.main-section h1 {
+    color: white;
+    position: absolute;
+    top: 20%;
+    left: 32%;
+    font-size: 50px;
+    letter-spacing: .2rem;
+    font-family:'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.main-section p {
+    color: white;
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    font-weight: 600;
+    font-size: 27px;
+}
+/* End Main Section */
+/* product Section */
+.product-section h1 {
+    color: white;
+    position: absolute;
+    top: 110%;
+    left: 26%;
+    font-weight: 900;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.product-section a {
+    color: white;
+    position: absolute;
+    top: 120%;
+    left: 35%;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.product-section a:hover{
+    color: green;
+}
+
+.product-link a{
+    color: white;
+    position: absolute;
+    top: 120%;
+    left: 58%;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.product-link a:hover{
+    color: green;
+}
+/* end product Section */
+/* Second Prooduct Sectin/Flex Container */
+.flexbox-container img {
+    height: 412px;
+}
+/* End Second Product Section/Flex Container */
+/* bottom images titles */
+.image-titles {
+    color: white;
+}
+
+.image-titles h2 {
+    position: absolute;
+    top: 195%;
+    left: 13%;
+    text-align: center;
+    font-size: 27px;
+    cursor: pointer;
+    letter-spacing: .1rem;
+}
+
+.image-titles a{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.image-titles a:hover{
+    color: green;
+}
+
+.image-titles1 h2 {
+    position: absolute;
+    top: 195%;
+    left: 65%;
+    text-align: center;
+    font-size: 27px;
+    color: white;
+    cursor: pointer;
+    letter-spacing: .1rem;
+}
+
+.image-titles1 a{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.image-titles1 a:hover{
+    color: green;
+}
+
+.image-titles2 h2 {
+    position: absolute;
+    top: 240%;
+    left: 10%;
+    text-align: center;
+    font-size: 27px;
+    color: white;
+    cursor: pointer;
+    letter-spacing: .1rem;
+}
+
+.image-titles2 a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.image-titles2 a:hover{
+    color: green;
+}
+
+.image-titles3 h2 {
+    position: absolute;
+    top: 240%;
+    left: 63%;
+    text-align: center;
+    font-size: 27px;
+    color: white;
+    cursor: pointer;
+    letter-spacing: .1rem;
+}
+
+.image-titles3 a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.image-titles3 a:hover{
+    color: green;
+}
+/* end of bottom img titles */
+/* media Queries */
+ 
+/* End Media Queries */
