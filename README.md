@@ -3,7 +3,7 @@
 ## Razer-Mock-Website
 Welcome to my Mock Project!
 
-### This website was built as a Personal Project, 
+### This website was built as a Personal Project
 
 the goal for this project was to farmiliarize myself with more knowledge on Positioning
 ### The tools the were used in this project were HTML, CSS 
