@@ -8,7 +8,7 @@
 the goal for this project was to farmiliarize myself with more knowledge on Positioning
 ### The tools the were used in this project were HTML, CSS 
 
-Here are some screen shots of the websites tructure, 
+Here are some screen shots of the websites structure, 
 
 ![website tablet 1](https://github.com/DanielsWebDevelopment/Image-Gallery-Website/assets/129445203/a336f699-0d54-48b9-80a7-37887586f157)
 
